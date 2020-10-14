@@ -20,19 +20,19 @@ module.exports = {
     socialMedia: [
         {
             name: "Linkedin",
-            url: "https://www.linkedin.com/in/konstantin-muenster/"
+            url: "https://www.linkedin.com/in/manuelmoyadev/"
         },
         {
             name: "Medium",
-            url: "https://medium.com/@konstantin.muenster"
+            url: "https://medium.com/@moya.manuel41"
         },
         {
             name: "Github",
-            url: "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal"
+            url: "https://github.com/moyamanuel"
         },
         {
             name: "Behance",
-            url: "https://www.behance.net/konstanmnster"
+            url: "https://www.behance.net/moyamanuelec8b"
         },
     ],
   
