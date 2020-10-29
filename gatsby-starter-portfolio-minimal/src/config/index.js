@@ -1,9 +1,9 @@
 module.exports = {
 
-    author: "@konstantinmuenster",
-    siteTitle: "Gatsby Starter Portfolio Minimal",
-    siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
-    siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
+    author: "@moya.manuel41",
+    siteTitle: "Welcome to Manuel's website",
+    siteShortTitle: "Personal Website", // Used as logo text in header, footer, and splash screen
+    siteDescription: "This is Manuel Moya's personal website, which includes relevant articles, projects, and contact information.",
     siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
@@ -12,7 +12,7 @@ module.exports = {
 
     // You can create your own Medium feed with this rss to json converter: https://rss2json.com/
     // To access your Medium RSS feed, just replace this url with your username: https://medium.com/feed/@{yourname}
-    mediumRssFeed: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40konstantin.muenster",
+    mediumRssFeed: "https://medium.com/feed/@moya.manuel41",
     shownArticles: 3,
     
     // There are icons available for the following platforms: 
@@ -47,7 +47,7 @@ module.exports = {
                 url: "/#about",
             },
             {
-                name: "Features",
+                name: "Projects",
                 url: "/#projects",
             },
         ],
